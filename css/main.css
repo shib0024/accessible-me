@@ -12,6 +12,7 @@ h4,
 h5,
 h6 {
   font-family: 'Stick No Bills', 'Roboto', Helvetica, sans-serif;
+  color: white;
 }
 
 .container {
@@ -30,6 +31,7 @@ img {
   flex-wrap: wrap;
   margin: 0;
   padding: 0;
+  color: limegreen;
 }
 
 .main-nav ul li {
